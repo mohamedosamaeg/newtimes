@@ -1,0 +1,43 @@
+/* select by mark up */
+body{
+    margin: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10 px;
+}
+
+
+h1{ padding-block: 10%;
+    color: brown;
+   
+}
+h3{text-align: center;
+    padding-bottom: 0%;
+    overflow: hidden;
+    font-size: 40px;
+    color: black;
+
+}
+h6{
+    margin-bottom: 0%;
+    text-align: center;
+}
+h5{
+    margin: 0%;
+    text-align: center;
+}
+
+img{
+    margin: 0%;
+    padding: 10 20 10 20;
+}
+
+
+
+#Subtitle{
+    text-align: center;
+    font-style:italic;
+    color: rgb(53, 53, 53);
+}
+.line{
+    width: 50%;
+}
