@@ -3,6 +3,7 @@ body{
     margin: 0%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 10 px;
+    color: rgb(253, 247, 247); 
     background-color: rgb(16, 68, 83);
 }
 
@@ -13,7 +14,7 @@ h3{text-align: center;
     padding-bottom: 0%;
     overflow: hidden;
     font-size: 40px;
-    color: black;
+    color: rgb(255, 255, 255);
 
 
 }
@@ -35,17 +36,17 @@ h4{
     text-align: center;
   }
 footer{
-    color: rgb(12, 11, 11);
+    color: rgb(238, 238, 238);
     text-shadow: rgb(240, 244, 255);
 }
-.boxes{
+.Boxes{
   display: block;
 }
 .Box {
   display: inline-table;
   width: 35%;
   margin: 15px;
-  background-color: white;
+  background-color: rgba(129, 123, 123, 0.562);
   padding: 15px;
   border-radius: 15px;
   box-shadow: rgba(0, 0, 0, 0.349) 0px 0px 3px 0px;
