@@ -47,9 +47,7 @@ footer{
   border-radius: 15px;
   box-shadow: rgba(0, 0, 0, 0.349) 0px 0px 3px 0px;
 }
-.Box p {
-  font-size: small;
-}
+
 header{
   text-align: center;
   font-style: italic;
