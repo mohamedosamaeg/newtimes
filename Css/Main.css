@@ -38,6 +38,9 @@ footer{
     color: rgb(12, 11, 11);
     text-shadow: rgb(240, 244, 255);
 }
+.boxes{
+  display: block;
+}
 .Box {
   display: inline-table;
   width: 35%;
