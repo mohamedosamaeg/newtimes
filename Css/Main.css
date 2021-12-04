@@ -38,5 +38,29 @@ footer{
     color: rgb(12, 11, 11);
     text-shadow: rgb(240, 244, 255);
 }
+.Box {
+  display: inline-table;
+  width: 40%;
+  margin: 10px;
+  background-color: rgb(91, 103, 104);
+  padding: 30;
+  border-radius: 0;
+  box-shadow: rgba(0, 0, 0, 0.349) 0px 0px 3px 0px;
+}
+.Box p {
+  font-size: small;
+}
+header{
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+  
+}
+ul{
+  border-radius: 10px;
+  background-position: center;
+}
+
+
 
 
