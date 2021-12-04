@@ -40,14 +40,12 @@ footer{
 }
 .Box {
   display: inline-table;
-  width: 40%;
-  margin: 10px;
-  background-color: rgb(91, 103, 104);
-  padding: 30;
-  border-radius: 0;
+  width: 35%;
+  margin: 15px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
   box-shadow: rgba(0, 0, 0, 0.349) 0px 0px 3px 0px;
-  display: inline;
-  display block-size: ;
 }
 .Box p {
   font-size: small;
